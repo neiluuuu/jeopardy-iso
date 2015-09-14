@@ -1,0 +1,355 @@
+{
+    "1": {
+        "1": {
+            "200": {
+                "Value": 200,
+                "Question": "Two words: this body of water",
+                "Answer": "Puget Sound"
+            },
+            "400": {
+                "Value": 400,
+                "Question": "Four words: this crazy condition",
+                "Answer": "bats in the belfry"
+            },
+            "600": {
+                "Value": 600,
+                "Question": "Six words: This 1969 movie title",
+                "Answer": "Butch Cassidy and the Sundance Kid"
+            },
+            "800": {
+                "Value": 800,
+                "Question": "Three names now: This inventor",
+                "Answer": "Thomas Alva Edison"
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "Two words: This historic structure",
+                "Answer": "Tower Bridge"
+            },
+            "Category": "A PICTURE IS WORTH...",
+            "Column": 1
+        },
+        "2": {
+            "200": {
+                "Value": 200,
+                "Question": "Used especially of stallions, it means to father a child",
+                "Answer": "sire"
+            },
+            "400": {
+                "Value": 400,
+                "Question": "As a noun, it's the ridge on the fingerboard of a guitar; as a verb, it means to worry",
+                "Answer": "fret"
+            },
+            "600": {
+                "Value": 600,
+                "Question": "Helen Reddy sang, \"I am woman, hear me\" do this",
+                "Answer": "roar"
+            },
+            "800": {
+                "Value": 800,
+                "Question": "To decrease gradually in intensity, such as the moon in passing from full to new",
+                "Answer": "wane"
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "Itemize, or what a ship does when it tilts to one side",
+                "Answer": "list"
+            },
+            "Category": "4-LETTER VERBS",
+            "Column": 2
+        },
+        "3": {
+            "200": {
+                "Value": 200,
+                "Question": "In 1968 Richard Burton gave her a 33.19-carat diamond engagement ring worth $8.8 million",
+                "Answer": "Elizabeth Taylor"
+            },
+            "400": {
+                "Value": 400,
+                "Question": "In this 1937 Tolkein story, The One Ring was a magic ring of invisibility; in later tales it acquired darker powers",
+                "Answer": "The Hobbit"
+            },
+            "600": {
+                "Value": 600,
+                "Question": "To begin a stage performance, one is said to \"ring up\" this item",
+                "Answer": "the curtain"
+            },
+            "800": {
+                "Value": 800,
+                "Question": "Founded in 1922, The Ring magazine is now owned by this boxing \"Golden Boy\"",
+                "Answer": "Oscar de la Hoya"
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "In 1979 Voyager I discovered that this planet had rings; further study was provided by the Gailieo orbiter",
+                "Answer": "Jupiter"
+            },
+            "Category": "GIVE ME A RING",
+            "Column": 3
+        },
+        "4": {
+            "200": {
+                "Value": 200,
+                "Question": "In 2011 the doctor was in when Stanley played the man who turned puny Steve Rogers into this title hero",
+                "Answer": "Captain America"
+            },
+            "400": {
+                "Value": 400,
+                "Question": "The false teeth! The bright blue wig! Stanley pulled out all the stops as the eccentric Caesar Flickerman in this 2012 film",
+                "Answer": "The Hunger Games"
+            },
+            "600": {
+                "Value": 600,
+                "Question": "Stanley became a child--Paul Child--as Meryl Streep's husband in this film",
+                "Answer": "Julie & Julia"
+            },
+            "800": {
+                "Value": 800,
+                "Question": "Stanley worked the runway--Runway Magazine--for Meryl Streep in this film",
+                "Answer": "The Devil Wears Prada"
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "Deceptively ordinary Stanley kills poor young Susie Salmon in this 2009 film",
+                "Answer": "The Lovely Bones"
+            },
+            "Category": "THE FILMS OF STANLEY TUCCI",
+            "Column": 4
+        },
+        "5": {
+            "200": {
+                "Value": 200,
+                "Question": "You establish a record as our longest-serving first lady & then become a delegate to the U.N. General Assembly",
+                "Answer": "Eleanor Roosevelt"
+            },
+            "400": {
+                "Value": 400,
+                "Question": "You are in prison from 1962 to 1990; 4 years after getting out, you lead your country",
+                "Answer": "Nelson Mandela"
+            },
+            "600": {
+                "Value": 600,
+                "Question": "In 1887 you shoot a cigarette dangling from the lips of the future Kaiser Wilhelm II; Wilhelm insisted on holding it",
+                "Answer": "Annie Oakley"
+            },
+            "800": {
+                "Value": 800,
+                "Question": "In 1943 you slap 2 soldiers in an army hospital & Congress holds up your promotion",
+                "Answer": "George Patton"
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "You are personal advisor to the Czar's wife in 1915 & many attempts are made on your life; you don't make it to 1917",
+                "Answer": "Rasputin"
+            },
+            "Category": "2nd PERSON, ACTIVE",
+            "Column": 5
+        },
+        "6": {
+            "200": {
+                "Value": 200,
+                "Question": "Ireland is divided into 32 of these political & geographic units; 6 of them belong to the U.K.",
+                "Answer": "counties"
+            },
+            "400": {
+                "Value": 400,
+                "Question": "The uachtaran is the Irish president; the taoiseach is this head of government",
+                "Answer": "the prime minister"
+            },
+            "600": {
+                "Value": 600,
+                "Question": "Ireland has no local police; the island is patrolled by An Garda Siochana, the Guardians of this",
+                "Answer": "peace"
+            },
+            "800": {
+                "Value": 800,
+                "Question": "Ireland's hospitals were largely funded by this horse-racing lottery that ran from 1930 to 1987",
+                "Answer": "The Irish Sweepstakes"
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "There once was a king named Richard I, who granted a charter to this Irish port city in 1197",
+                "Answer": "Limerick"
+            },
+            "Category": "THE OLD SOD",
+            "Column": 6
+        }
+    },
+    "2": {
+        "1": {
+            "200": {
+                "Value": 200,
+                "Question": "",
+                "Answer": ""
+            },
+            "400": {
+                "Value": 400,
+                "Question": "",
+                "Answer": ""
+            },
+            "600": {
+                "Value": 600,
+                "Question": "",
+                "Answer": ""
+            },
+            "800": {
+                "Value": 800,
+                "Question": "",
+                "Answer": ""
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "",
+                "Answer": ""
+            },
+            "Category": "",
+            "Column": 1
+        },
+        "2": {
+            "200": {
+                "Value": 200,
+                "Question": "",
+                "Answer": ""
+            },
+            "400": {
+                "Value": 400,
+                "Question": "",
+                "Answer": ""
+            },
+            "600": {
+                "Value": 600,
+                "Question": "",
+                "Answer": ""
+            },
+            "800": {
+                "Value": 800,
+                "Question": "",
+                "Answer": ""
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "",
+                "Answer": ""
+            },
+            "Category": "",
+            "Column": 2
+        },
+        "3": {
+            "200": {
+                "Value": 200,
+                "Question": "",
+                "Answer": ""
+            },
+            "400": {
+                "Value": 400,
+                "Question": "",
+                "Answer": ""
+            },
+            "600": {
+                "Value": 600,
+                "Question": "",
+                "Answer": ""
+            },
+            "800": {
+                "Value": 800,
+                "Question": "",
+                "Answer": ""
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "",
+                "Answer": ""
+            },
+            "Category": "",
+            "Column": 3
+        },
+        "4": {
+            "200": {
+                "Value": 200,
+                "Question": "",
+                "Answer": ""
+            },
+            "400": {
+                "Value": 400,
+                "Question": "",
+                "Answer": ""
+            },
+            "600": {
+                "Value": 600,
+                "Question": "",
+                "Answer": ""
+            },
+            "800": {
+                "Value": 800,
+                "Question": "",
+                "Answer": ""
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "",
+                "Answer": ""
+            },
+            "Category": "",
+            "Column": 4
+        },
+        "5": {
+            "200": {
+                "Value": 200,
+                "Question": "",
+                "Answer": ""
+            },
+            "400": {
+                "Value": 400,
+                "Question": "",
+                "Answer": ""
+            },
+            "600": {
+                "Value": 600,
+                "Question": "",
+                "Answer": ""
+            },
+            "800": {
+                "Value": 800,
+                "Question": "",
+                "Answer": ""
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "",
+                "Answer": ""
+            },
+            "Category": "",
+            "Column": 5
+        },
+        "6": {
+            "200": {
+                "Value": 200,
+                "Question": "",
+                "Answer": ""
+            },
+            "400": {
+                "Value": 400,
+                "Question": "",
+                "Answer": ""
+            },
+            "600": {
+                "Value": 600,
+                "Question": "",
+                "Answer": ""
+            },
+            "800": {
+                "Value": 800,
+                "Question": "",
+                "Answer": ""
+            },
+            "1000": {
+                "Value": 1000,
+                "Question": "",
+                "Answer": ""
+            },
+            "Category": "",
+            "Column": 6
+        }
+    },
+    "count": 2
+}
